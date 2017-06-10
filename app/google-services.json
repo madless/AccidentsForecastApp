@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "744190895700",
+    "firebase_url": "https://accidentsforecast.firebaseio.com",
+    "project_id": "accidentsforecast",
+    "storage_bucket": "accidentsforecast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744190895700:android:2777e81aa816a98f",
+        "android_client_info": {
+          "package_name": "com.madless.accidentsforecast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744190895700-nteo04mj32t04bsa74pjb9jkt6an37cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUNinlNMq5MhaSbB06N1_b1N658srpFH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

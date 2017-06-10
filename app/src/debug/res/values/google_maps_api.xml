@@ -1,0 +1,19 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=CB:70:4E:8A:44:FE:B5:7F:7D:79:BD:B8:FF:48:CC:F2:EC:43:2D:7B%3Bcom.madless.crashesforecast
+
+    You can also add your credentials to an existing key, using this line:
+    CB:70:4E:8A:44:FE:B5:7F:7D:79:BD:B8:FF:48:CC:F2:EC:43:2D:7B;com.madless.crashesforecast
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBewAPUUm0wK2hiUsL0xBTCJ0J1kcfN2Vk</string>
+</resources>
